@@ -3,7 +3,6 @@
 This small extension allows for a connection to be added for connectors not accessible through the UI. This is the case when enabling and using the GRPC Protocol released for Qlik Core. The alternative to using this extension is to put the engine into Legacy Mode.
 
 ## How to use
-
 1. Install Extension (download from here)
 1. Create application and create a sheet
 1. Add Extension to sheet
